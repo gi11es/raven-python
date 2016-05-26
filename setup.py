@@ -35,7 +35,7 @@ flask_requires = [
 ]
 
 flask_tests_requires = [
-    'Flask-Login>=0.2.0',
+    'Flask-Login>=0.3.2',
 ]
 
 webpy_tests_requires = [
